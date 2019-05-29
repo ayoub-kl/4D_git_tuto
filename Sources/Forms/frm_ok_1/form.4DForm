@@ -39,13 +39,28 @@
 					"left": 96,
 					"width": 273,
 					"height": 72,
-					"text": "Ok",
+					"text": "very ok",
 					"focusable": false,
+					"events": [
+						"onClick"
+					]
+				},
+				"Button1": {
+					"type": "button",
+					"text": "not ok",
+					"top": 115,
+					"left": 383,
+					"width": 300,
+					"height": 70,
 					"events": [
 						"onClick"
 					]
 				}
 			}
 		}
-	]
+	],
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	}
 }
